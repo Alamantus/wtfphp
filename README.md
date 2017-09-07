@@ -1,10 +1,8 @@
 # WTF PHP
 
-I saw a few of these WTF<programming language> projects floating around and wanted to make one of my own.
+I saw a few of these WTF<programming language> projects floating around and wanted to make one of my own. Things like inconsistent built-in method naming conventions and other things I thought were funny about PHP.
 
-[Check it out here](http://php.net/manual/en/langref.php)
-
-...
+[Check out the full list here](http://php.net/manual/en/langref.php)
 
 ...
 
@@ -16,4 +14,8 @@ I saw a few of these WTF<programming language> projects floating around and want
 
 ...
 
-Yes, this is a joke. :smiley:
+...
+
+Yes, this is a joke. :smile:
+
+I use PHP daily at work, and I actually quite enjoy it! :smiley:
