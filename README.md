@@ -1,5 +1,6 @@
 # WTF PHP
-A list of funny and tricky PHP examples
+
+I saw a few of these WTF<programming language> projects floating around and wanted to make one of my own.
 
 [Check it out here](http://php.net/manual/en/langref.php)
 
